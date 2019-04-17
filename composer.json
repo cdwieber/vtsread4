@@ -1,0 +1,10 @@
+{
+  "require": {
+    "kamranahmedse/php-geocode": "*",
+    "php-http/guzzle6-adapter": "^1.1",
+    "php-http/message": "^1.6"
+  },
+  "autoload" : {
+    "psr-4": {"VTS\\": "src/"}
+  }
+}
