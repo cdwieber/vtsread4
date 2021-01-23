@@ -102,7 +102,7 @@ get_header();
 	
 </div>
 
-	<script src="https://maps.googleapis.com/maps/api/js?key=***REMOVED***"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key="></script>
 
 	<script>
         jQuery(document).ready(function($){
