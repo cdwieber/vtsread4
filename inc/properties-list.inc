@@ -405,4 +405,4 @@ wp_reset_query();
 	wp_enqueue_script('images-loaded');
 	wp_enqueue_script('front');
 	?>
-	<script src="https://maps.googleapis.com/maps/api/js?key=***REMOVED***"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key="></script>
